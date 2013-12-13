@@ -12,3 +12,8 @@ HackSurfer
 ==========
 
 [HackSurfer](http://www.hacksurfer.com/) is several things at once. At its core, HackSurfer is designed to enable better awareness of cybercrime threats to business through data analysis, info sharing and collaboration. To do this, we bring together open, cyber-focused data journalism, expert analysis, social media and facts & figures around who's doing what to who, how are they doing it and what's happening as a result. Our main focus is helping targeted businesses stay on top of what's a threat, how to recognize it and how it affects their bottom lines. 
+
+License
+=======
+
+Use of the software source code linked on this site is subject to the license agreement set forth in the source code repository, and also linked here: [LICENSE](https://github.com/hacksurfer/hacksurfer-client-java/blob/master/LICENSE).
