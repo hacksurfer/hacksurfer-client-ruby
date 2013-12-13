@@ -16,4 +16,4 @@ HackSurfer
 License
 =======
 
-Use of the software source code linked on this site is subject to the license agreement set forth in the source code repository, and also linked here: [LICENSE](https://github.com/hacksurfer/hacksurfer-client-java/blob/master/LICENSE).
+Use of the software source code linked on this site is subject to the license agreement set forth in the source code repository, and also linked here: [LICENSE](https://github.com/hacksurfer/hacksurfer-client-ruby/blob/master/LICENSE).
